@@ -95,9 +95,7 @@ streamlit run sql.py
 
 ---
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
@@ -112,9 +110,3 @@ PRs are welcome! If you have suggestions for improvements or new features, feel 
 **Shivam Singla**
 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/shivam-singla-02b726345/)) • 
 
-```
-
----
-
-Let me know if you'd like me to generate the `requirements.txt` too or add badges (like Streamlit, license, Python version, etc.)!
-```
